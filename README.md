@@ -1,4 +1,4 @@
-## <center> Center this text!</center>
+<center> <h1>heading 1</h1> </center>
 ## Biological Statistics 
 STAT 3615 CRN: 17920 
 Spring 2018
