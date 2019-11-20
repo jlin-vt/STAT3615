@@ -1,4 +1,7 @@
-## Biological Statistics STAT 3615 Spring 2018
+## <center> Center this text!</center>
+## Biological Statistics 
+STAT 3615 CRN: 17920 
+Spring 2018
 
 ## Instructor
 * Name: Jiali Lin	
